@@ -49,6 +49,4 @@ Formulas used here
      
      * Run the code and display the output
      
- # Output :
-   
-   * To see the output video, then go to the media file and check it out.
+
